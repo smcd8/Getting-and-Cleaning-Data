@@ -2,7 +2,7 @@ Getting and Cleaning Data Project
 
 Description
 
-Additional information about the variables, data and transformations used in the course project for the Johns Hopkins Getting and Cleaning Data course.
+Additional information about the variables, data and transformations used in the course project for the Johns Hopkins Getting and Cleaning Data course. Create code run_analysis.R to create a tidy data set.
 
 Source Data
 
@@ -30,12 +30,12 @@ Section 1. Merge the training and the test sets to create one data set.
 After setting the source directory for the files, read into tables the data located in
 
 features.txt
-activity_labels.txt
-subject_train.txt
-x_train.txt
-y_train.txt
+a_Type.txt
+s_train.txt
+Xtrain.txt
+ytrain.txt
 subject_test.txt
-x_test.txt
+X_test.txt
 y_test.txt
 Assign column names and merge to create one data set.
 
